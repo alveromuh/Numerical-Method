@@ -1,6 +1,6 @@
-# Numerical Methods Repository
+# Numerical Analysis Repository
 
-Welcome to the "Numerical Methods" repository! This collection of notebooks focuses on various numerical techniques and methods commonly used in computational mathematics. Each file represents a distinct topic, providing implementations, explanations, and updates to enhance your understanding of numerical methods.
+Welcome to the "Numerical Analysis" repository! This collection of notebooks focuses on various numerical techniques and methods commonly used in computational mathematics. Each file represents a distinct topic, providing implementations, explanations, and updates to enhance your understanding of numerical methods.
 
 ## Contents
 
